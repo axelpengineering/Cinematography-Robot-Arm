@@ -13,8 +13,5 @@ A robotic arm targeted at hobbyists to acheive repeatable programmable movements
 
 ---
 ## Results
-**Held-out Test**
-- Accuracy **0.870** · Recall **0.8646**
-
-**Unseen Split (20% never used in tuning)**
-- Accuracy **0.8656** · Recall **0.8563**
+**TBD**
+- TBD
