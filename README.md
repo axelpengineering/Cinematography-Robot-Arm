@@ -8,8 +8,8 @@ A robotic arm targeted at hobbyists to acheive repeatable programmable movements
 
 ## 🔗 Project Resources
 
-📄 [Check In 1 Presentation](./docs/final_report.pdf)  
-🎥 [Check In 2 CAD Model](https://drive.google.com/file/d/1UnZOLgy0tU_djvsDBNjNY274a55oBblY/view?usp=sharing)  
+📄 [Check In 1 Presentation]()  
+🎥 [Check In 2 CAD Model]()  
 
 ---
 ## Results
