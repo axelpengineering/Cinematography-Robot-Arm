@@ -16,3 +16,5 @@ A robotic arm targeted at hobbyists to acheive repeatable programmable movements
 ## Results
 **TBD**
 - TBD
+
+<img src="CheckIn2CADPic.png" alt="Image of Check In #2 CAD Model" width="300" height="200">
