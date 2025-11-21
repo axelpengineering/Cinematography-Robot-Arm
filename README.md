@@ -9,7 +9,11 @@ A robotic arm targeted at hobbyists to acheive repeatable programmable movements
 ## 🔗 Project Resources
 
 📄 [Check In 1 Presentation](https://docs.google.com/presentation/d/1-3c3j0SQaKH2WOJd6BaiyDCT7N_2TE1bmaBynG-4J1E/edit?usp=sharing)  
+
+
 🎥 [Check In 2 CAD Model](MIE243CheckIn2ASSEMBLY.zip)  
+
+
 <img src="CheckIn2CADPic.png" alt="Image of Check In #2 CAD Model" width="200" height="400">
 
 ---
