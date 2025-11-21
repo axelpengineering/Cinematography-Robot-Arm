@@ -8,7 +8,7 @@ A robotic arm targeted at hobbyists to acheive repeatable programmable movements
 
 ## 🔗 Project Resources
 
-📄 [Check In 1 Presentation](https://docs.google.com/presentation/d/1-3c3j0SQaKH2WOJd6BaiyDCT7N_2TE1bmaBynG-4J1E/edit?usp=sharing)  
+📄 [Final Presentation](https://www.canva.com/design/DAGj5GZOAQM/9CXxTj_mwAXokOeJICzBhA/view?utm_content=DAGj5GZOAQM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08e134d4e9)  
 
 
 🎥 [Check In 2 CAD Model](MIE243CheckIn2ASSEMBLY.zip)  
