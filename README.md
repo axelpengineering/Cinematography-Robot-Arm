@@ -1,5 +1,5 @@
 # Cinematography-Robot-Arm
-A robotic arm targeted at hobbyists to acheive repeatable programmable movements, such as panning, for camera shots. DOne as a part of course work in a 4-person team in MIE243: Mechanical Design I.
+A robotic arm targeted at hobbyists to acheive repeatable programmable movements, such as panning, for camera shots. Done as a part of course work in a 4-person team in MIE243: Mechanical Design I.
 
 **Highlights**
 - **Acheived 6-axis Design:** Swivel base allows for rotation around z-axis whilst the base is moving.
