@@ -17,7 +17,7 @@ A robotic arm targeted at hobbyists to acheive repeatable programmable movements
 <img src="CheckIn2CADPic.png" alt="Image of Check In #2 CAD Model" width="200" height="400">
 
 ## 👥 Working with Teammates
-
+My teamates for this project where Mae Perri (Team Lead), Lina Le (Note taker) and Maddie Lowes (Editor). I was the project manager. I tracked team tasks and dipslayed them on Gantt Charts using Miro. Here is some of the feedback I received:
 
 ---
 ## Results
