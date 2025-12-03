@@ -10,7 +10,7 @@ A robotic arm targeted at hobbyists to acheive repeatable programmable movements
 
 📄 [Check-In 1 Presentation](https://docs.google.com/presentation/d/1-3c3j0SQaKH2WOJd6BaiyDCT7N_2TE1bmaBynG-4J1E/edit?usp=sharing)
 
-📄📽️ [Final Project Report](https://docs.google.com/presentation/d/1-3c3j0SQaKH2WOJd6BaiyDCT7N_2TE1bmaBynG-4J1E/edit?usp=sharing)
+📄📽️ [Final Project Report](https://docs.google.com/document/d/16_lgdhgprQCKHzbRuZO_kxoZj7VZ-0ihIm0GkuNti2I/edit?usp=sharing)
 
 🎥 [Check-In 2 CAD Model](MIE243CheckIn2ASSEMBLY.zip)  
 
