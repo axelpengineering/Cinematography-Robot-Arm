@@ -29,7 +29,7 @@ You have a lot of technical skills and explain the mechanisms in the course in a
 
 Axel is a great teammate and project manager. He keeps the group on track and makes sure we are always prepared for deadlines. He also did an excellent job on research early on which helped us move the project along quickly. Axel communicates his ideas effectively and quickly both in our meetings and in our group chat online. The CAD model he prepared for our design was also very well made.
 
-<img width="1202" height="798" alt="image" src="https://github.com/user-attachments/assets/333472e8-3bb4-4800-8775-fb53fb14e1b8" /># Cinematography-Robot-Arm
+<img width="1202" height="798" alt="image" src="https://github.com/user-attachments/assets/333472e8-3bb4-4800-8775-fb53fb14e1b8" />
 ---
 ## Results
 **TBD**
