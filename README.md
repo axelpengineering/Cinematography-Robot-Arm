@@ -31,3 +31,12 @@ Axel is a great teammate and project manager. He keeps the group on track and ma
 
 <img width="1202" height="798" alt="image" src="https://github.com/user-attachments/assets/333472e8-3bb4-4800-8775-fb53fb14e1b8" />
 
+## Results of the Project
+**Project Results**
+- Produced a CAD model with fixings, mates and all mechanical components in a form such that it could be manufactured if sent to a manufatctuer.
+
+**Personal Outcomes From Experience**
+- Underwent a CAD project in the context of a group project, understood how to split CAD models and work with compatibility and individual differences in visions.
+- Heightened my CAD/solidworks skills for more advanced knowledge relating to mating, material selection, file exporting, engineering drawings, importing standardized components, etc.
+- Working on project management techniques and learning to use tools such as Gantt Charts.
+
