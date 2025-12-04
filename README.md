@@ -39,4 +39,5 @@ Axel is a great teammate and project manager. He keeps the group on track and ma
 - Underwent a CAD project in the context of a group project, understood how to split CAD models and work with compatibility and individual differences in visions.
 - Heightened my CAD/solidworks skills for more advanced knowledge relating to mating, material selection, file exporting, engineering drawings, importing standardized components, etc.
 - Working on project management techniques and learning to use tools such as Gantt Charts.
+- Project theme of robot arm required research into the robotics field revealing information about common practices and considerations when going about the mechanical aspect of designing and working with robot arms.
 
